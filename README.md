@@ -19,4 +19,4 @@ well This is The most important file which contains our main plugin code. in thi
 4. `setPluginUnmount()` function 
 
 All the above listed Function are the mendetory functions `setPluginInit()` and `setPluginUnmount()` are defined inside a class named `acode` so we can call them using `acode.FunctionName()` These are Acode's inbuilt function and we just need to call them with actual arguments if you wanna explore more about those functions just click <a href=""> me </a> but if you are bigner 
-
+I'll suggest you to use the files instead of exploring Documentations to avoid any confusion build a basic plugin and then explore according to the problems.
